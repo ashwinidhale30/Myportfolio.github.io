@@ -1,0 +1,212 @@
+.main
+{
+	color:red;
+	height:2200px;
+	width:100%;
+	float:left;
+	//background-color:grey; 
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+#intro{
+	background-color:tomato;
+	height: 300px;
+	float:left;
+	color:white;
+	line-height: 50px;
+	//margin-top:100px;
+	font-size: 20px;
+	width:100%;
+	text-align: center;
+}
+
+#p1{
+	margin-left: 10px;
+}
+
+.about{
+	height:300px;
+	width:100%;
+	float:left;
+	background-color:darkgrey;
+	color:white;
+}
+
+.about1{
+width:30%;
+height: 300px;
+float:left;
+background-color:black;
+}
+
+.about2{
+width:70%;
+height: 300px;
+float:left;
+background-color:black;
+}
+
+.skill{
+	height:300px;
+	background-color: blue;
+	width: 100%;
+	color:white;
+}
+
+.port{
+	height:400px;
+	width:100%;
+	background-color:green;
+	color:black;
+}
+
+
+#portblock{
+	height: 300px;
+	width:20%;
+	background-color: white;
+	float:left;
+	margin:25px 30px;
+}
+
+#block1{
+	height:50px;
+	width:100%;
+	background-color:lightgreen;
+	text-align:center;
+	line-height:50px;
+}
+
+#block2{
+	height:200px;
+	width:100%;
+	background-color:lightgrey;
+}
+
+#block3{
+	height:50px;
+	width:100%;
+	background-color:lightgreen;
+	text-align:center;
+	line-height:50px;
+}
+
+.contact{
+	height:400px;
+	width:100%;
+	background-color:grey;
+}
+
+.form{
+	height:400px;
+	width:30%;
+	background-color:yellow;
+	float:left;
+	color:black;
+	padding-left:50px;
+}
+
+
+.info{
+	height:400px;
+	width:70%;
+	background-color:purple;
+	float:left;
+	color:white;
+	text-align:center;
+	padding-top:40px;
+}
+
+.social{
+	height:200px;
+	width:100%;
+	background-color:black;
+	float:left;
+	color:white;
+}	
+		
+.content1{
+	height: 200px;
+	width: 50%;
+	float:left;
+	padding:20px;
+}	
+	
+.content2{
+	height:200px;
+	width:50%;
+	float:left;
+}	
+
+.links{
+float:left;
+height:50px;
+padding:30px;
+font-size: 50px;
+}
+
+
+.copyright{
+	height:50px;
+	width:100%;
+	line-height:50px;
+	text-align:center;
+	background-color:black;
+	color:white;
+	float:left;
+}
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
